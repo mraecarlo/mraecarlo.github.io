@@ -86,7 +86,7 @@
 
 
 #wall_1 {
-    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(../images/wall1.GIF);
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(../images/wall1.gif);
     background-attachment: fixed;	
 	background-size: cover;
 	position:relative;
